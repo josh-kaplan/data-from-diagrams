@@ -1,0 +1,4 @@
+xmltodict==0.13.0
+matplotlib==3.7.2
+networkx==3.2.1
+py2neo==2021.2.4
